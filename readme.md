@@ -18,3 +18,4 @@ There's no need to create clumsy disk images. Just put your CP/M programs and fi
 
 CPMduino needs a binary copy of the CP/M CCP to be on the root folder of the SD card. The one provided is CPM22.bin, which is CPM 2.2. Others may work as well, your mileage may vary.
 
+## CPMduino is now merged into RunCPM and won't be upgraded anymore
