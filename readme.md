@@ -1,4 +1,4 @@
-# CPMduino
+# CPMduino (deprecated, see below)
 
 CPMduino is an arduino application which allows you to execute old CP/M 8 bits programs on the Arduino DUE.
 If you miss powerful programs like Wordstar, dBaseII, Mbasic and others, then RunCPM is for you.
